@@ -33,9 +33,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Customization Notes
 
-- Replace the repository URL with your own if necessary.
-- Update the contact info, project details, and any other specific sections as needed. 
-- This structure should cover everything you need for a well-detailed README.
+- **Repository URL**: If you are forking this repository, replace the repository URL with your own by updating the clone link to your GitHub repository.
+- **Contact Info**: Update the portfolio to reflect your own contact details (email, social media links, etc.). Be mindful of personal information and ensure it's up to date.
+- **Project Details**: Modify the project showcase section to include your own work, skills, and any relevant projects you've completed.
+- **Design & Layout**: Feel free to customize the visual elements, such as colors, fonts, and animations, to better suit your personal style.
 
 ## Disclaimer
 

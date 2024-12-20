@@ -1,4 +1,4 @@
-# Jiya's Portfolio
+# Personal Portfolio
 
 Welcome to my personal portfolio website! This is an online representation of my skills, projects, and achievements. It is designed to showcase my journey as a developer and provides insight into my technical expertise, creativity, and passion for building impactful solutions.
 
